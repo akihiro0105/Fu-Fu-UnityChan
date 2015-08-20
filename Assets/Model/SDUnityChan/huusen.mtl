@@ -1,0 +1,14 @@
+newmtl m0
+Ka 0 0 0
+Kd 0.8 0 0.0408
+Ks 0 0 0
+Ns 5
+d 1
+
+newmtl m1
+Ka 0 0 0
+Kd 0.4896 0.4896 0.4896
+Ks 0 0 0
+Ns 5
+d 1
+

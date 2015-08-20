@@ -1,0 +1,15 @@
+C:\Users\Akihiro00\Downloads\Program\Unity_Project\UnityChan001\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Akihiro00\Downloads\Program\Unity_Project\UnityChan001\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Akihiro00\Downloads\Program\Unity_Project\UnityChan001\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\Akihiro00\Downloads\Program\Unity_Project\UnityChan001\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+C:\Users\Akihiro00\Downloads\Program\Unity_Project\UnityChan001\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\Akihiro00\Downloads\Program\Unity_Project\UnityChan001\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+C:\Users\Akihiro00\Downloads\Program\Unity_Project\UnityChan001\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Users\Akihiro00\Downloads\Program\Unity_Project\UnityChan001\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Users\Akihiro00\Downloads\Program\Unity_Project\UnityChan001\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+C:\Users\Akihiro00\Downloads\Program\Unity_Project\UnityChan001\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+C:\Users\Akihiro00\Downloads\Program\Unity_Project\UnityChan001\obj\Debug\UnityVS.UnityChan001.CSharp.Plugins.csprojResolveAssemblyReference.cache
+C:\Users\Akihiro00\Downloads\Program\Unity_Project\UnityChan001\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Akihiro00\Downloads\Program\Unity_Project\UnityChan001\obj\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Akihiro00\Downloads\Program\Unity_Project\UnityChan001\Temp\UnityVS_bin\Debug\BulletXNA-Unity.dll
+C:\Users\Akihiro00\Downloads\Program\Unity_Project\UnityChan001\Temp\UnityVS_bin\Debug\MMD4MecanimInternal.dll
